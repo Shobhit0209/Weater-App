@@ -1,0 +1,4 @@
+#Wed Nov 08 16:23:50 IST 2023
+base.0=C\:\\Users\\Shobhit\\StudioProjects\\Weather_App\\weatherapp_starter_project\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
